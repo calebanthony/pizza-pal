@@ -1,6 +1,9 @@
 # pizzapal
 
 > Helps you order pizza for large groups
+> Built with VueJS
+
+![Screenshot](https://i.imgur.com/merH1Zc.png)
 
 ## Build Setup
 
